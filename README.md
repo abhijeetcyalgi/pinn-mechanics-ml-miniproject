@@ -100,3 +100,12 @@ Observations:
 ## Reference
 
 Q. Zhang, Y. Chen, Z. Yang, *Data driven solutions and discoveries in mechanics using physics informed neural network*, Stanford CS229 project report, 2020. https://cs229.stanford.edu/proj2020spr/report/Zhang_Chen_Yang.pdf
+
+## Install Dependencies
+
+pip install -r requirements.txt
+
+## Presentation
+
+The project presentation is available at:
+docs/PINN_Mechanics_Presentation.pptx
